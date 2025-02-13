@@ -62,5 +62,5 @@ No clear correlation was found between model performance and dataset characteris
 
 ![Results](image.png)
 
-## (OPTIONAL: CONTACT DETAILS)
-If you are planning on making your github repo public you may wish to include some contact information such as a link to your twitter or an email address. 
+## CONTACT DETAILS
+Email: hamlet07@o2.pl or mateuszmaj64@gmail.com
