@@ -62,5 +62,13 @@ No clear correlation was found between model performance and dataset characteris
 
 ![Results](image.png)
 
-## CONTACT DETAILS
-Email: hamlet07@o2.pl or mateuszmaj64@gmail.com
+The lowest-performing tasks was improved by unfreezing 6 last layers. Additionally, RetinaMNIST were trained with 16 batch size.
+As the result of that, overall accuracy increased to 0.692. The lowest-performing datasets obtained:
+    - RetinaMNIST: 0.515
+    - TissueMNIST: 0.604
+    - OCTMNIST: 0.688
+
+![Results](image2.png)
+
+## (OPTIONAL: CONTACT DETAILS)
+If you are planning on making your github repo public you may wish to include some contact information such as a link to your twitter or an email address. 
