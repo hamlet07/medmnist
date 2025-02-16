@@ -71,4 +71,4 @@ As the result of that, overall accuracy increased to 0.692. The lowest-performin
 ![Results](image2.png)
 
 ## (OPTIONAL: CONTACT DETAILS)
-If you are planning on making your github repo public you may wish to include some contact information such as a link to your twitter or an email address. 
+Email: hamlet07@o2.pl or mateuszmaj64@gmail.com
